@@ -88,3 +88,4 @@ INSERT INTO health_records VALUES
 (3,3,'O-'),
 (4,4,'AB+'),
 (5,5,'A-');
+--done--
